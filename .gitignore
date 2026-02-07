@@ -94,3 +94,4 @@ bld/
 [Ll]ogs/
 bin
 *.sln
+bin-int
